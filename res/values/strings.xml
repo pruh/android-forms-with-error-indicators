@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Form Errors</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="checkbox_with_error">CheckBox with Error</string>
+    <string name="radiobutton_with_error">RadioButton with Error</string>
+    <string name="button_with_error">Button with Error</string>
+    <string name="show_error_markers">Show Error Markers</string>
+    <string name="must_be_filled">Must be filled</string>
+    <string name="must_be_checked">Must be checked</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="must_be_unchecked">Must be unchecked</string>
+    <string name="hide_error_markers">Hide Error Markers</string>
+
+</resources>
